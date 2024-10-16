@@ -19,8 +19,6 @@
 
 ## Hey 👋, I'm Rendy!
 ###  a full-time full-stack freelance developer
-
-<br/> 
 <br/>  
 
 ### Glad to see you here!  
