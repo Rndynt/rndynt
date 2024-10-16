@@ -1,11 +1,28 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/19859532?v=4" align="center" height="200" width="200" />
+<img src="https://avatars.githubusercontent.com/u/19859532?v=4" align="center" height="150" width="150" />
 </div>  
-  
 
-### <div align="center">I'm Rendy, a full-time full-stack freelance developer 👨‍💻 
-working remotely since 2016 🚀</div>  
-  
+### Hey 👋, I'm Rendy! 
+#### a full-time full-stack freelance developer  
+
+##
+
+<a href="https://github.com/rndynt" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/rendyantamaulana" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/rendyanta_" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/0rndynt" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+<br/> 
+<br/>  
+
+### Glad to see you here!  
 
 - 🌱 I’m currently learning Hyperledger, Kubernetes, Typescript & Solidity  
   
@@ -20,12 +37,13 @@ working remotely since 2016 🚀</div>
 
 
 ## My Skill Set  
-<table style="width:100%" align="center"><tr><td valign="top" width="33%">
+<div align="center">  
+<table width="100" align="center"><tr><td valign="top" width="33%">
 
 
 
 ### Frontend  
-<div align="center">  
+<div align="center" style="width:100%">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
@@ -39,7 +57,7 @@ working remotely since 2016 🚀</div>
 
 
 ### Backend  
-<div align="center">  
+<div align="center" style="width:100%">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
@@ -58,7 +76,7 @@ working remotely since 2016 🚀</div>
 
 
 ### DevOps  
-<div align="center">  
+<div align="center" >  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
@@ -66,10 +84,11 @@ working remotely since 2016 🚀</div>
 </div>
 
 </td></tr></table>  
+</div>
 
 <br/>  
 
-
+<!--
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/rndynt" target="_blank">
@@ -85,7 +104,7 @@ working remotely since 2016 🚀</div>
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+-->
 
 <br/>  
 
@@ -93,19 +112,19 @@ working remotely since 2016 🚀</div>
 ## Github Stats  
 
 <div align="center">  
-<table style="border: none;">
-  <tr style="border: none;">
-    <td valign="top" width="33%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndynt&hide_border=true&layout=compact" align="left" />
-    </td>
-    <td valign="top" width="33%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=rndynt&show_icons=true&count_private=true&hide_border=true" align="center" />
-    </td>
-    <td valign="top" width="33%" style="border: none;">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rndynt&hide_border=true" alt="rndynt" />
-    </td>
-  </tr>
-</table>
+  <table style="border: none;">
+    <tr style="border: none;">
+      <td valign="top" width="33%" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndynt&hide_border=true&layout=compact" align="left" />
+      </td>
+      <td valign="top" width="33%" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=rndynt&show_icons=true&count_private=true&hide_border=true" align="center" />
+      </td>
+      <td valign="top" width="33%" style="border: none;">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rndynt&hide_border=true" alt="rndynt" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
