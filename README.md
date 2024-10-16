@@ -112,19 +112,12 @@
 ## Github Stats  
 
 <div align="center">  
-  <table style="border: none;">
-    <tr style="border: none;">
-      <td valign="top" width="33%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndynt&hide_border=true&layout=compact" align="left" />
-      </td>
-      <td valign="top" width="33%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=rndynt&show_icons=true&count_private=true&hide_border=true" align="center" />
-      </td>
-      <td valign="top" width="33%" style="border: none;">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rndynt&hide_border=true" alt="rndynt" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndynt&hide_border=true&layout=compact" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rndynt&show_icons=true&count_private=true&hide_border=true" align="center" />
+
+  <br/>
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rndynt&hide_border=true" alt="rndynt" />
 </div>
 
 
