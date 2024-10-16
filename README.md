@@ -20,12 +20,12 @@ working remotely since 2016 🚀</div>
 
 
 ## My Skill Set  
-<table style="width:100%;"><tr><td valign="top" width="33%">
+<table style="width:100%" align="center"><tr><td valign="top" width="33%">
 
 
 
 ### Frontend  
-<div align="left">  
+<div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
@@ -58,7 +58,7 @@ working remotely since 2016 🚀</div>
 
 
 ### DevOps  
-<div align="left">  
+<div align="center">  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
@@ -93,15 +93,15 @@ working remotely since 2016 🚀</div>
 ## Github Stats  
 
 <div align="center">  
-<table>
+<table style="border: none;">
   <tr style="border: none;">
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndynt&hide_border=true&layout=compact" align="left" />
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=rndynt&show_icons=true&count_private=true&hide_border=true" align="center" />
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" style="border: none;">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rndynt&hide_border=true" alt="rndynt" />
     </td>
   </tr>
@@ -109,53 +109,9 @@ working remotely since 2016 🚀</div>
 </div>
 
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndynt&hide_border=true&layout=compact" align="left" />  
-  <img src="https://github-readme-stats.vercel.app/api?username=rndynt&show_icons=true&count_private=true&hide_border=true" align="center" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rndynt&hide_border=true" alt="rndynt" />
-</div>  
-
-
-
-
-<!--
-## Recent Blog Posts  
-  
-
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
--->
-<br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rndynt&&style=flat-square" align="center" />
-</div>  
-
-
-
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rndynt" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rndynt&show_icons=true&locale=en&layout=compact" alt="rndynt" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rndynt&show_icons=true&locale=en" alt="rndynt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rndynt&" alt="rndynt" /></p>
 
 <!--
 **Rndynt/rndynt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
