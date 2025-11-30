@@ -1,152 +1,85 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/19859532?v=4" align="center" height="150" width="150" />
-</div>  
-
-<p align="center">
-  <a href="https://github.com/rndynt" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/rendyantamaulana" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://instagram.com/rendyanta_" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/0rndynt" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>  
-  </p>
-
-## Hey 👋, I'm Rendy!
-###  a full-time full-stack freelance developer
-<br/>  
-
-### Glad to see you here!  
-
-- 🌱 I’m currently learning Hyperledger, Kubernetes, Typescript & Solidity  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- 👨‍💻 All of my projects are available at [rendyantamaulana.com](http://rendyantamaulana.com)  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<div align="center">  
-<table width="100" align="center"><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center" style="width:100%">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
+<img src="https://avatars.githubusercontent.com/u/19859532?v=4" width="140" style="border-radius: 50%; border: 4px solid #30363d; box-shadow: 0 0 20px rgba(0,0,0,0.5);">
+<h1 style="border-bottom: none; margin-bottom: 0;">Rndynt</h1>
+<h3 style="font-weight: normal; margin-top: 5px; color: #8b949e;">Full-Stack Developer & Blockchain Enthusiast</h3>
+<!-- SOCIAL BUTTONS (Native HTML Button Style - Gak bakal broken) -->
+<p>
+<a href="http://rendyantamaulana.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/🌐_Website-2ea44f?style=for-the-badge&logoColor=white" height="28">
+</a>
+<a href="https://linkedin.com/in/rendyantamaulana">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/👔_LinkedIn-0a66c2?style=for-the-badge&logoColor=white" height="28">
+</a>
+</p>
 </div>
 
-</td><td valign="top" width="33%">
 
-
-
-### Backend  
-<div align="center" style="width:100%">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25" /></a>  
-<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="25" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center" >  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-</div>
-
-</td></tr></table>  
-</div>
-
-<br/>  
-
-<!--
-## Connect with me  
+<!-- INTRO BOX -->
 <div align="center">
-<a href="https://github.com/rndynt" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rendyantamaulana" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/rendyanta_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/0rndynt" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
--->
+<table>
+<tr>
+<td align="center" width="600">
+<h3>👋 About Me</h3>
+<p>
+I build scalable web apps & explore decentralized systems.
 
-<br/>  
-
-
-## Github Stats  
-
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndynt&hide_border=true&layout=compact" align="left" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rndynt&show_icons=true&count_private=true&hide_border=true" align="center" />
-
-  <br/>
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rndynt&hide_border=true" alt="rndynt" />
+Currently deep diving into <b>Hyperledger, K8s, & Solidity</b>.
+</p>
+</td>
+</tr>
+</table>
 </div>
 
 
-<br/>  
+<!-- TECH STACK GRID (Pake Tabel biar rapi kayak tombol, bukan gambar) -->
+<h3 align="center">⚡ Tech Arsenal</h3>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120"><b>Backend</b></td>
+<td align="center" width="120"><b>Frontend</b></td>
+<td align="center" width="120"><b>DevOps</b></td>
+<td align="center" width="120"><b>Langs</b></td>
+</tr>
+<tr>
+<td align="center">
+<code>Node.js</code>
 
-###
+<code>Go</code>
 
-<br clear="both">
+<code>Rust</code>
+</td>
+<td align="center">
+<code>React</code>
 
+<code>Next.js</code>
+
+<code>Tailwind</code>
+</td>
+<td align="center">
+<code>Docker</code>
+
+<code>K8s</code>
+
+<code>Linux</code>
+</td>
+<td align="center">
+<code>TS</code>
+
+<code>Python</code>
+
+<code>Solidity</code>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- SNAKE -->
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+<img alt="github snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
-
-###
-
-
-
-<!--
-**Rndynt/rndynt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
